@@ -1,4 +1,6 @@
 {
+    "name": "alsciende/auth",
+    "description": "A small security-related project to showcase Hexagonal Architecture.",
     "type": "project",
     "license": "proprietary",
     "require": {

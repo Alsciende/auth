@@ -1,3 +1,3 @@
 # auth
 
-Small security-related project to showcase Hexagonal Architecture.
+A small security-related project to showcase Hexagonal Architecture.
